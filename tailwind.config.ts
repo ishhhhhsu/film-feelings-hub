@@ -52,6 +52,19 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				cinema: {
+					gold: 'hsl(var(--cinema-gold))',
+					'gold-foreground': 'hsl(var(--cinema-gold-foreground))',
+					blue: 'hsl(var(--cinema-blue))',
+					'blue-foreground': 'hsl(var(--cinema-blue-foreground))',
+					purple: 'hsl(var(--cinema-purple))',
+					'purple-foreground': 'hsl(var(--cinema-purple-foreground))'
+				},
+				sentiment: {
+					positive: 'hsl(var(--sentiment-positive))',
+					neutral: 'hsl(var(--sentiment-neutral))',
+					negative: 'hsl(var(--sentiment-negative))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
